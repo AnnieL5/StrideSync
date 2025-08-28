@@ -1,12 +1,12 @@
 ## What it is about
-Potential Functions include:
-1. Collect and record heart and sweat data, and alarm for abnormalities.
+Functions include:
+1. Collecting and record heart and sweat data, and alarm for abnormalities.
 
-2. Medicine box, first aid
+2. Emergency pill box, first aid
 
-3. Detect the presence of dangerous objects around the walker, such as water, ice, slippery surfaces, sharp objects (such as glass fragments), rugged roads, muddy surfaces, sudden rise or fall of the ground, detect foreign objects, such as various animal excrement, paint and other factors that affect walking, and give voice alarms.
+3. Detecting the presence of dangerous objects around the walker, such as water, ice, slippery surfaces, sharp objects (such as glass fragments), rugged roads, muddy surfaces, sudden rise or fall of the ground, detect foreign objects, such as various animal excrement, paint and other factors that affect walking, and give voice alarms.
 
-4. In case of emergencies, release the gripper to assist the walker to maintain body balance--prevent falling
+4. Step by step voice guide for elderly who get lost / heading home.
 
 5. Emergency phone
 
